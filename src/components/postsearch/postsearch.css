@@ -1,0 +1,18 @@
+.blog-page {
+  margin-top: 2vh;
+}
+.search-bar {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 10%;
+}
+
+.search-bar input {
+  width: 60%;
+  padding: 0.5vh 2%;
+  border: 0.4px solid rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  height: 3vh;
+}
